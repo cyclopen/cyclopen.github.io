@@ -1,0 +1,9 @@
+languages: ["pl", "en"]
+default_lang: "pl"
+
+markdown: kramdown
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock

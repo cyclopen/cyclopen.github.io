@@ -1,0 +1,169 @@
+pl:
+  lang_code: "pl"
+  lang_name: "Polski"
+  
+  header: 
+    title: "🚴 Cyclopen"
+    subtitle: "Nowoczesna platforma treningowa dla kolarzy"
+  
+  about: 
+    title: "O projekcie"
+    description: "Cyclopen to otwarty projekt aplikacji do treningu rowerowego na trenażerze. Obsługuje protokół FTMS (Fitness Machine Service) przez Bluetooth Low Energy, umożliwiając pełną kontrolę nad trenażerem - zarówno w trybie ERG (stała moc), jak i przez sterowanie oporem."
+  
+  features:
+    feature1:
+      icon: "⚡"
+      title: "Tryb ERG"
+      description: "Precyzyjna kontrola mocy wyjściowej. Trenażer automatycznie dostosowuje opór, aby utrzymać zadaną moc."
+    feature2:
+      icon: "🔄"
+      title: "Automatyczny Fallback"
+      description: "Jeśli trenażer nie obsługuje ERG, aplikacja automatycznie przełącza się na sterowanie oporem."
+    feature3:
+      icon: "📊"
+      title: "Real-time Metryki"
+      description: "Moc, kadencja, prędkość i inne dane na żywo z Twojego trenażera."
+    feature4:
+      icon: "🌐"
+      title: "Web App"
+      description: "Działa w przeglądarce bez instalacji. Wystarczy Chrome, Edge lub Opera."
+    feature5:
+      icon: "📱"
+      title: "Aplikacja Mobilna"
+      description: "Natywna aplikacja mobilna (w przygotowaniu) dla pełnego doświadczenia treningowego."
+    feature6:
+      icon: "🔓"
+      title: "Open Source"
+      description: "Cały kod źródłowy dostępny publicznie. Rozwijaj projekt razem z nami!"
+  
+  cta: 
+    title: "🚀 Rozpocznij trening"
+    subtitle: "Wybierz platformę i zacznij trenować już teraz"
+    webAppButton: "Web App →"
+    mobileAppButton: "Aplikacja Mobilna (wkrótce)"
+  
+  platforms:
+    title: "Platformy"
+    webapp:
+      icon: "🌐"
+      title: "Web App"
+      description: "Działa w przeglądarce"
+      link: "Uruchom →"
+    mobile:
+      icon: "📱"
+      title: "Mobile App"
+      description: "Android / iOS"
+      link: "GitHub →"
+  
+  tech:
+    title: "Technologie"
+    tags:
+      - "Web Bluetooth API"
+      - "FTMS Protocol"
+      - "Bluetooth Low Energy"
+      - "JavaScript"
+      - "HTML5"
+      - "PWA"
+      - "GitHub Pages"
+  
+  quickstart: 
+    title: "Szybki start"
+    step1: "🔗 Włącz Bluetooth na swoim urządzeniu"
+    step2: "🚴 Włącz trenażer rowerowy"
+    step3: "🌐 Otwórz"
+    step3Link: "/webapp/"
+    step3End: "w Chrome, Edge lub Opera"
+    step4: "🔘 Kliknij \"Połącz\" i wybierz swój trenażer"
+    step5: "🎯 Ustaw moc lub opór i zacznij trening!"
+  
+  footer:
+    description: "Open Source Cycling Training Platform"
+    github: "GitHub"
+    webappRepo: "Web App Repo"
+    mobileRepo: "Mobile App Repo"
+    copyright: "© 2025 Cyclopen | MIT License"
+
+en:
+  lang_code: "en"
+  lang_name: "English"
+  
+  header:
+    title: "🚴 Cyclopen"
+    subtitle: "Modern training platform for cyclists"
+  
+  about:
+    title: "About the project"
+    description: "Cyclopen is an open source cycling trainer application. It supports FTMS (Fitness Machine Service) protocol via Bluetooth Low Energy, providing full control over your trainer - both in ERG mode (constant power) and resistance control."
+  
+  features:
+    feature1:
+      icon: "⚡"
+      title: "ERG Mode"
+      description: "Precise power output control. The trainer automatically adjusts resistance to maintain target power."
+    feature2:
+      icon: "🔄"
+      title: "Automatic Fallback"
+      description: "If the trainer doesn't support ERG, the app automatically switches to resistance control."
+    feature3:
+      icon: "📊"
+      title: "Real-time Metrics"
+      description: "Power, cadence, speed and other data live from your trainer."
+    feature4:
+      icon: "🌐"
+      title: "Web App"
+      description: "Works in browser without installation. Chrome, Edge or Opera required."
+    feature5:
+      icon: "📱"
+      title: "Mobile App"
+      description: "Native mobile app (coming soon) for complete training experience."
+    feature6:
+      icon: "🔓"
+      title: "Open Source"
+      description: "All source code publicly available. Develop the project with us!"
+  
+  cta:
+    title: "🚀 Start training"
+    subtitle: "Choose your platform and start training now"
+    webAppButton: "Web App →"
+    mobileAppButton: "Mobile App (coming soon)"
+  
+  platforms:
+    title: "Platforms"
+    webapp:
+      icon: "🌐"
+      title: "Web App"
+      description: "Works in browser"
+      link: "Launch →"
+    mobile:
+      icon: "📱"
+      title: "Mobile App"
+      description: "Android / iOS"
+      link: "GitHub →"
+  
+  tech:
+    title: "Technologies"
+    tags:
+      - "Web Bluetooth API"
+      - "FTMS Protocol"
+      - "Bluetooth Low Energy"
+      - "JavaScript"
+      - "HTML5"
+      - "PWA"
+      - "GitHub Pages"
+  
+  quickstart:
+    title: "Quick start"
+    step1: "🔗 Enable Bluetooth on your device"
+    step2: "🚴 Turn on your bike trainer"
+    step3: "🌐 Open"
+    step3Link: "/webapp/"
+    step3End: "in Chrome, Edge or Opera"
+    step4: "🔘 Click \"Connect\" and select your trainer"
+    step5: "🎯 Set power or resistance and start training!"
+  
+  footer:
+    description: "Open Source Cycling Training Platform"
+    github: "GitHub"
+    webappRepo: "Web App Repo"
+    mobileRepo: "Mobile App Repo"
+    copyright: "© 2025 Cyclopen | MIT License"
